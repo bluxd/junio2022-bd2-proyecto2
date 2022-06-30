@@ -10,16 +10,8 @@ INSERT INTO Genre (name) VALUES(N'Genre 8');
 INSERT INTO Genre (name) VALUES(N'Genre 9');
 INSERT INTO Genre (name) VALUES(N'Genre 10');
 
-INSERT INTO TitleType (name) VALUES(N'Title Type 1');
-INSERT INTO TitleType (name) VALUES(N'Title Type 2');
-INSERT INTO TitleType (name) VALUES(N'Title Type 3');
-INSERT INTO TitleType (name) VALUES(N'Title Type 4');
-INSERT INTO TitleType (name) VALUES(N'Title Type 5');
-INSERT INTO TitleType (name) VALUES(N'Title Type 6');
-INSERT INTO TitleType (name) VALUES(N'Title Type 7');
-INSERT INTO TitleType (name) VALUES(N'Title Type 8');
-INSERT INTO TitleType (name) VALUES(N'Title Type 9');
-INSERT INTO TitleType (name) VALUES(N'Title Type 10');
+INSERT INTO TitleType (name) VALUES(N'Pelicula');
+INSERT INTO TitleType (name) VALUES(N'Serie');
 
 INSERT INTO Name (primaryName, birthYear, deathYear) VALUES(N'Name 1', 1951, 2011);
 INSERT INTO Name (primaryName, birthYear, deathYear) VALUES(N'Name 2', 1952, 2012);
